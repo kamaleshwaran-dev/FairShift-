@@ -1,0 +1,6 @@
+{
+  "name": "FairShift - Decent Work Platform (UN SDG 8)",
+  "description": "Frontline worker shift transparency, overtime calculator, audio payslip reader, safety incident reporting, and fatigue & attrition analytics for Construction and Healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
